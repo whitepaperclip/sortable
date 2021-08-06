@@ -1,0 +1,19 @@
+{
+  "name": "sortable",
+  "version": "1.0.0",
+  "description": "Makes any table with **class=\"sortable\"**, er, sortable. That is the user can click on a table header and change the sorting of the table rows.",
+  "main": "sortable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitepaperclip/sortable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitepaperclip/sortable/issues"
+  },
+  "homepage": "https://github.com/whitepaperclip/sortable#readme"
+}
